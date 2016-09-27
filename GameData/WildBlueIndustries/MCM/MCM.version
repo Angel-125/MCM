@@ -1,6 +1,6 @@
 {
     "NAME":"MCM",
-    "URL":"https://raw.githubusercontent.com/Angel-125/Pathfinder/master/GameData/WildBlueIndustries/MCM.version",
+    "URL":"https://raw.githubusercontent.com/Angel-125/MCM/master/GameData/WildBlueIndustries/MCM.version",
     "DOWNLOAD":"https://github.com/Angel-125/MCM/releases",
     "GITHUB":
     {
@@ -11,7 +11,7 @@
     "VERSION":
     {
 	"MAJOR":2,
-	"MINOR":0,
+	"MINOR":1,
 	"PATCH":0,
 	"BUILD":0
     },

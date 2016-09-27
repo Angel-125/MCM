@@ -10,6 +10,14 @@ Copy the contents of the mod's GameData directory into your KSP's GameData folde
 
 ---REVISION HISTORY---
 
+2.1.0
+- Added the Stagecoach Multipurpose Node. Based on Pathfinder's Mule, the Stagecoach has less storage capacity but it has attachment points for docking ports.
+
+2.0.1
+- Made art assets self-contained.
+- Lowered the MBU's crew ports; if you rest the MBU on the ground with its legs retracted, it can serve as a base hub.
+- Minor bug fixes.
+
 2.0 Initial Release
 
 - Added the Pioneer Multipurpose Colony Module. It counts as part of Pathfinder's Habitation components.
